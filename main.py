@@ -47,7 +47,7 @@ class Student:
         print(f"Youre: \nName - {self.name}"
               f"\nAge - {self.age}"
               f"\nEdu - {self.edu}"
-              f"\nTeach(successfully) - {self.teach}"
+              f"\nTeach(academic success) - {self.teach}"
               f"\nWork(money) - {self.work}")
 
 
